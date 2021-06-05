@@ -1,0 +1,33 @@
+.everything{
+
+    text-align:center;
+    color:#FAFDFC;
+}
+
+body{
+
+    background-color:#026F9D;
+}
+
+a:visited{
+
+    color:#FAFDFC;
+}           
+
+a:hover{
+
+    color:#7DB185;
+}
+
+.links{
+
+    position:relative;
+    top:30px;
+    font-size:130%;
+}
+
+.deku img{
+    position:relative;
+    left:550px;
+}
+

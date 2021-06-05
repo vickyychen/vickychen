@@ -1,0 +1,548 @@
+.banner{
+
+    position:relative;
+    text-align:center;
+    color:#FAFDFC;
+    background-color:#026F9D;
+    height:200px;
+    border:solid #FAFDFC;
+    margin-bottom: 80px; 
+    margin-top:120px;
+    z-index:-5;
+
+    }
+
+    .tile{
+
+    color:#FAFDFC;
+    position:relative;
+    top:50px;
+    font-size:500%;
+    font-family: 'Bodoni Moda', serif;
+    }
+
+    body{
+
+        background-color:#CEDED7 ;
+    }
+
+    .container{
+
+        display:flex;
+    }
+
+    .shoto{
+        
+        position:relative;
+        top:-901px;
+        left:880px;
+        z-index:1;
+        
+    }
+
+    .stylepic{
+
+        position:relative;
+        left:50px;
+    
+    }
+
+    .color{
+
+        position:relative;
+        top:-800px;
+        float:right;
+        left: -100px;
+        background-color:#FAFDFC;
+        padding:8px;
+        border:solid #7DB185;
+        text-align:center;
+        font-family: 'Lora', serif;
+        font-size:120%;
+    }
+
+    .yul{
+
+        position:relative;
+        top:-600px;
+        float:right;
+        left:210px;
+        background-color:#FAFDFC;
+        padding:8px;
+        border:solid #7DB185;
+        text-align:center;
+        font-family: 'Lora', serif;
+        font-size:120%;
+
+    }
+
+    .daniel{
+
+        position:relative;
+        top:-350px;
+        float:right;
+        left:-150px;
+        background-color:#FAFDFC;
+        padding:8px;
+        border:solid #7DB185;
+        text-align:center;
+        font-family: 'Lora', serif;
+        font-size:120%;
+
+    }
+
+    .tobias{
+
+        position:relative;
+        top:-450px;
+        float:right;
+        left:850px;
+        background-color:#FAFDFC;
+        padding:8px;
+        border:solid #7DB185;
+        text-align:center;
+        font-family: 'Lora', serif;
+        font-size:120%;
+
+    }
+
+    .feel{
+
+        position:relative;
+        top:-507px;
+        float:left;
+        left:650px;
+        background-color:#FAFDFC;
+        padding:8px;
+        border:solid #7DB185;
+        text-align:center;
+        font-family: 'Lora', serif;
+        font-size:120%;
+
+    }
+
+    .circle1{
+        background: #7DB185;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        position:relative;
+        left:30px;
+    }
+
+    .circle2{
+        background: #CEDED7;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        position:relative;
+        top:-116px;
+        left:180px;
+        border:solid black 1px;
+     
+    }
+
+    .circle3{
+        background: #5DA8A2;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        position:relative;
+        top:-232px;
+        left:330px;
+     
+    }
+
+    .circle4{
+        background: #FAFDFC;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        position:relative;
+        top:-348px;
+        left:480px;
+     
+    }
+
+    .circle5{
+        background: #026F9D;
+        border-radius: 50%;
+        width: 100px;
+        height: 100px;
+        position:relative;
+        top:-464px;
+        left:630px;
+    }
+
+    .dg{
+
+        position:relative;
+        top:52px;
+        left:15px;
+    }
+
+    .lg{
+
+        position:relative;
+        top:130px;
+        left:15px;
+    }
+
+    .bg{
+
+        position:relative;
+        top:130px;
+        left:15px;
+    }
+
+    .w{
+
+        position:relative;
+        top:130px;
+        left:15px;
+    }
+
+    .db{
+
+        position:relative;
+        top:130px;
+        left:15px;
+    }
+
+    #colors{
+        height:200px;
+        width:800px;
+        position:relative;
+        left:0px;
+        border:solid black;
+    }
+
+    .rat{
+
+        position:relative;
+        top:-1950px;
+    }
+    
+    .bodoni{
+
+        font-family: 'Bodoni Moda', serif;
+        font-size:170%;
+    }
+
+    .garamond{
+
+        font-family: 'EB Garamond', serif;
+        font-size:170%;
+    }
+
+    .cormorant{
+
+        font-family: 'Cormorant', serif;
+        font-size:170%;
+    }
+
+    .lora{
+
+        font-family: 'Lora', serif;
+        font-size:170%;
+    }
+
+    a:visited{color:#026F9D;}
+
+    a:hover{color:#FAFDFC;}
+
+    .h2color{
+
+        position:relative;
+        top:-200px;
+
+    }
+
+    .allfonts{
+
+        position:relative;
+        top:-100px;
+    }
+
+    .fonts{
+
+        border:solid black;
+        max-width:820px;
+    }
+
+    @media screen and (min-width:768px) and (max-width:872px){
+    body {
+        background-color:#CEDED7;
+        width:100%;
+        overflow-x:hidden;
+    }
+}
+
+    @media screen and (min-width:768px) and (max-width:992px){
+        .banner{
+            height:150px;
+            position:relative;
+            top:-30px;
+            max-width:992px;
+
+        }
+
+        .tile{
+            font-size:70px;
+            position:relative;
+            top:27px;
+            left:-90px;
+    
+        }
+
+        .rat img{
+            position:relative;
+            left:20px;
+            top:150px;
+            max-height:25vh;
+    
+        }
+
+        .shoto img{
+            position:relative;
+            top:138px;
+            left:-390px;  
+            height:250px;
+            width:320px;
+            
+        }
+
+        .stylepic img{
+            height:70%;
+            width:80%;
+            position:relative;
+            left:30px;
+
+        }
+
+        .color{
+
+            font-size:90%;
+            position:relative;
+            top:-750px;
+        }
+
+        .yul{
+
+            font-size:90%;
+            position:relative;
+            top:-180px;
+            left:250px;
+        }
+
+        .daniel{
+
+            font-size:90%;
+            position:relative;
+            left:490px;
+            top:-380px;
+        }
+
+        .tobias{
+
+            font-size:90%;
+            position:relative;
+            left:250px;
+            top:-400px;
+        }
+
+        .feel{
+
+            font-size:90%;
+            position:relative;
+            top:-400px;
+            left:300px;
+        }
+        
+    }
+
+
+    @media screen and (min-width:872px) and (max-width:992px){
+        body {
+            background-color:#CEDED7;
+            width:100%;
+            overflow-x:hidden;
+        }
+    }
+
+    @media screen and (min-width:768px) and (max-width:800px){
+        .h2color{
+
+            position:relative;
+            top:-100px;
+        }
+        
+        .dg{
+
+            position:relative;
+            top:90px;
+        }
+    }
+
+    @media screen and (min-width:992px) and (max-width:1200px){
+        body {
+            background-color:pink;
+            width:100%;
+            overflow-x:hidden;
+        }
+    }
+
+    @media screen and (min-width:992px) and (max-width:1200px){
+        .banner{
+            height:150px;
+            position:relative;
+            top:-30px;
+            max-width:1200px;
+
+        }
+
+        .tile{
+            font-size:70px;
+            position:relative;
+            top:27px;
+            left:-90px;
+    
+        }
+
+        .shoto img{
+
+            float:none;
+            height:224px;
+            width:299px;
+            position:relative;
+            top:91px;
+            left:-300px;
+            padding:0px;
+            margin:0px;
+        }
+
+
+        .rat img{
+            position:relative;
+            left:0px;
+            top:200px;
+            max-height:25vh;
+    
+        }
+
+
+        .stylepic img{
+            height:70%;
+            width:80%;
+            position:relative;
+            left:30px;
+
+        }
+
+        .color{
+
+            font-size:90%;
+            position:relative;
+            top:-790px;
+            left:0px
+        }
+
+        .yul{
+
+            font-size:90%;
+            position:relative;
+            top:-180px;
+            left:250px;
+        }
+
+        .daniel{
+
+            font-size:90%;
+            position:relative;
+            left:490px;
+            top:-380px;
+        }
+
+        .tobias{
+
+            font-size:90%;
+            position:relative;
+            left:250px;
+            top:-400px;
+        }
+
+        .feel{
+
+            font-size:90%;
+            position:relative;
+            top:-400px;
+            left:300px;
+        }
+
+        .h2color{
+
+            position:relative;
+            top:-50px;
+        }
+
+        .dg{
+
+            position:relative;
+            top:-10px;
+        }
+
+        .lg{
+
+            position:relative;
+            top:105px;
+        }
+
+        .allfonts{
+
+            position:relative;
+            top:0px;
+        }
+    }
+    
+    @media screen and (min-width:992px) and (max-width:1200px){
+        body {
+            background-color:pink;
+            width:100%;
+            overflow-x:hidden;
+        }
+    }
+
+    @media screen and (min-width:992px) and (max-width:1200px){
+        .dg{
+
+            position:relative;
+            top:90px;
+        
+        }
+
+        .lg{
+
+            position:relative;
+            top:130px;
+        }
+
+    }
+
+
+    @media screen and (min-width:1200px) and (max-width:1300px){
+        body {
+            background-color:#CEDED7;
+            width:100%;
+            overflow-x:hidden;
+        }
+    }
+
+
+    @media screen and (min-width:1200px) and (max-width:1300px){
+        .lg{
+
+            position:relative;
+            top:40px;
+        }
+    }
+    

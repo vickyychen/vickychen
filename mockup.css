@@ -1,0 +1,442 @@
+body{
+    background-color:#CEDED7;
+}
+
+.banner{
+
+    position:relative;
+    text-align:center;
+    color:#FAFDFC;
+    background-color:#026F9D;
+    height:200px;
+    border:solid #FAFDFC;
+    margin-bottom: 80px; 
+    margin-top:120px;
+    z-index:-5;
+
+    }
+
+.mock{
+
+    color:#FAFDFC;
+    position:relative;
+    top:50px;
+    font-size:500%;
+    font-family: 'Bodoni Moda', serif;
+}
+
+.pic1{
+
+    position:relative;
+    left:23%;
+
+
+}
+
+.font1{
+
+    position:relative;
+    background-color:#7DB185;
+    padding:8px;
+    border:solid #FAFDFC;
+    max-width:100px;
+    text-align:center;
+    top:-380px;
+    left:300px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.color1{
+
+    position:relative;
+    background-color:#7DB185;
+    padding:8px;
+    border:solid #FAFDFC;
+    max-width:100px;
+    text-align:center;
+    float:right;
+    top:-530px;
+    left:-300px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.explore{
+    position:relative;
+    background-color:#7DB185;
+    padding:8px;
+    border:solid #FAFDFC;
+    max-width:150px;
+    text-align:center;
+    top:-250px;
+    left:550px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+
+}
+
+.pic2{
+
+    position:relative;
+    left:23%;
+
+}
+
+.lines{
+
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:220px;
+    text-align:center;
+    top:-500px;
+    left:30px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.center{
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:240px;
+    text-align:center;
+    float:right;
+    top:-400px;
+    left:-300px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+
+}
+
+.font2{
+
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:70px;
+    text-align:center;
+    top:-450px;
+    left:500px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.color2{
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:100px;
+    text-align:center;
+    top:-300px;
+    left:400px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+
+}
+
+.pic3{
+
+    position:relative;
+    left:23%;
+}
+
+.description{
+
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:300px;
+    text-align:center;
+    top:-300px;
+    left:40px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.color3{
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:100px;
+    text-align:center;
+    top:-385px;
+    left:780px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+
+}
+
+.font3{
+
+    position:relative;
+    background-color:#CEDED7;
+    padding:8px;
+    border:solid #7DB185;
+    max-width:150px;
+    text-align:center;
+    float:right;
+    top:-700px;
+    left:-200px;
+    font-family: 'Lora', serif;
+    font-size:120%;
+}
+
+.pic3all{
+
+    position:relative;
+    top:-150px;
+}
+
+.rat{
+
+    position:relative;
+    top:-3020px;
+}
+
+.wolf img{
+
+    position:relative;
+    top: -3223px;
+    left:200px;
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    body {
+        background-color:pink;
+        width:100%;
+        overflow-x:hidden;
+    }
+
+    .banner{
+        height:150px;
+        position:relative;
+        top:-30px;
+        max-width:992px;
+
+    }
+
+    .mock{
+        font-size:70px;
+        position:relative;
+        top:27px;
+        left:0px;
+
+    }
+
+    .rat img{
+        position:relative;
+        left:0px;
+        top:360px;
+        max-height:25vh;
+
+    }
+
+    .wolf{
+
+        position:relative;
+        top:327px;
+        left:-150px;
+    }
+    .pic1 img{
+            height:70%;
+            width:80%;
+            position:relative;
+            left:-100px;
+    }
+
+    .font1{
+        position:relative;
+        left:30px;
+    }
+
+    .color1{
+
+        position:relative;
+    }
+
+    .explore{
+        position:relative;
+        top:-150px;
+    }
+
+    .pic2 img{
+        height:70%;
+        width:80%;
+        position:relative;
+        left:-100px;
+    }
+
+    .lines{
+        position:relative;
+        background-color:#FAFDFC;
+        top:-300px;
+
+    }
+
+    .center{
+        position:relative;
+        background-color:#FAFDFC;
+        left:-60px;
+        top:-350px;
+
+    }
+
+    .color2{
+
+        position:relative;
+        background-color:#FAFDFC;
+    }
+
+    .font2{
+
+        position:relative;
+        background-color:#FAFDFC;
+        left:600px;
+    }
+
+    .pic3 img{
+        height:70%;
+        width:80%;
+        position:relative;
+        left:-100px;
+    }
+
+    .description{
+
+        position:relative;
+        background-color:#FAFDFC;
+        top:-100px;
+    }
+
+    .color3{
+
+        position:relative;
+        background-color:#FAFDFC;
+    }
+
+    .font3{
+        position:relative;
+        background-color:#FAFDFC;
+        top:-500px;
+
+    }
+
+}
+
+@media screen and (min-width:992px) and (max-width:1200px){
+    body {
+        background-color:#CEDED7;
+        width:100%;
+        overflow-x:hidden;
+
+    }
+
+    .rat img{
+        position:relative;
+        left:0px;
+        top:140px;
+        max-height:25vh;
+        z-index:2
+
+    }
+
+    .wolf{
+
+        position:relative;
+        top:186px;
+        left:-150px;
+        z-index:1;
+    }
+    .pic1 img{
+            height:70%;
+            width:80%;
+            position:relative;
+            left:-100px;
+    }
+
+    .font1{
+        position:relative;
+        left:30px;
+    }
+
+    .color1{
+
+        position:relative;
+    }
+
+    .explore{
+        position:relative;
+        top:-150px;
+    }
+
+    .pic2 img{
+        height:70%;
+        width:80%;
+        position:relative;
+        left:-100px;
+    }
+
+    .lines{
+        position:relative;
+        background-color:#FAFDFC;
+        top:-300px;
+
+    }
+
+    .center{
+        position:relative;
+        background-color:#FAFDFC;
+        left:-60px;
+        top:-350px;
+
+    }
+
+    .color2{
+
+        position:relative;
+        background-color:#FAFDFC;
+    }
+
+    .font2{
+
+        position:relative;
+        background-color:#FAFDFC;
+        left:600px;
+    }
+
+    .pic3 img{
+        height:70%;
+        width:80%;
+        position:relative;
+        left:-100px;
+    }
+
+    .description{
+
+        position:relative;
+        background-color:#FAFDFC;
+        top:-100px;
+    }
+
+    .color3{
+
+        position:relative;
+        background-color:#FAFDFC;
+    }
+
+    .font3{
+        position:relative;
+        background-color:#FAFDFC;
+        top:-500px;
+        left:-300px;
+
+    }
+}

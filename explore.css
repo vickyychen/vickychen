@@ -1,0 +1,1549 @@
+body{
+
+    margin:0;
+    padding:0;
+    width:100%;
+    overflow-x:hidden;
+    background-color:#CEDED7; 
+}
+
+.banner{
+
+    position:relative;
+    top:-100px;
+    text-align:center;
+    color:#FAFDFC;
+    background-color:#026F9D;
+    height:250px;
+    border:solid #FAFDFC;
+    margin-bottom: 80px; 
+    margin-top:50px;
+    z-index:-5;
+    padding:0px;
+    
+}
+
+.projects{
+
+    color:#FAFDFC;
+    position:relative;
+    top:50px;
+    font-size:500%;
+    font-family: 'Bodoni Moda', serif;
+    padding:0px;
+    margin:0px;
+
+}
+
+a:visited{color:#7DB185;}
+
+a:hover{color:#026F9D}
+
+.pic1 img{
+
+    max-height:1800px;
+    max-width:900px;
+    position:relative;
+    top:100px;
+    z-index:2;
+    padding:0px;
+    margin:0px;
+}
+
+.headline{
+
+    font-size:50px;
+    text-decoration:underline;
+    position:relative;
+    top:-7px;
+    left:-170px;
+    color:#CEDED7; 
+    float:right;   
+    padding:0px;
+    margin:0px;     
+    
+}
+
+.sdescription{
+
+    font-size:25px;
+    position:relative;
+    left:70px;
+    color:#FAFDFC;
+    top:70px;
+    font-family: 'Cormorant', serif;
+    float:right;
+    padding:0px;
+    margin:0px;
+
+
+}
+
+.ukai{
+
+    position:relative;
+    float:right;
+    top:-866px;
+    z-index:3;
+    padding:0px;
+    margin:0px;
+
+}
+
+.pic2 img{
+
+    max-height:1800px;
+    max-width:900px;
+    position:relative;
+    top:0px;
+    z-index:2;
+    padding:0px;
+    margin:0px;
+}
+
+.smore{
+
+    font-size:20px;
+    background-color:#FAFDFC;
+    position:relative;
+    left:140px;
+    top:160px;
+    padding:5px 10px 5px 10px;
+    z-index:4;
+    font-family: 'Lora', serif;
+    color:#7DB185;
+    float:right;
+}
+
+.severything{
+
+    background-color:#5DA8A2;
+    border: 5px solid #CEDED7;
+    height:300px;
+    margin:0;
+    padding:0;
+    position:relative;
+    top:-412px;
+}
+
+.menu img{
+
+    padding:0;
+    margin:0;
+    position:relative;
+    top:0px;
+    z-index:2;
+    height:15vh;
+}
+
+.erwin{
+
+    position:relative;
+    top:-1322px;
+    z-index:1;
+    padding:0;
+    margin:0;
+    left:200px;
+
+}
+
+
+.pic2 img{
+
+    position:relative;
+    float:right;
+    left:350px;
+    border: 5px solid #CEDED7;
+    padding:0px;
+    margin:0px;
+    top:-200px;
+
+}
+
+.wheadline{
+
+    font-size:50px;
+    text-decoration:underline;
+    position:relative;
+    left:130px;
+    color:#CEDED7;
+    top:-500px;
+    padding:0px;
+    margin:0px;
+
+}
+
+.wdescription{
+
+    font-size:25px;
+    position:relative;
+    left:100px;
+    color:#FAFDFC;
+    top:-480px;
+    left:130px;
+    font-family: 'Cormorant', serif;
+    padding:0px;
+    margin:0px;
+
+}
+
+.wmore{
+
+    font-size:20px;
+    background-color:#FAFDFC;
+    position:relative;
+    left:260px;
+    top:-400px;
+    padding:5px 10px 5px 10px;
+    z-index:4;
+    color:#7DB185;
+    font-family: 'Lora', serif;
+    margin:0px;
+
+}
+
+.weverything{
+
+    background-color:#5DA8A2;
+    border: 5px solid #CEDED7;
+    height:300px;
+    margin:0;
+    padding:0;
+    margin:0px;
+    position:relative;
+    top:-200px;
+
+
+}
+
+.tanjiro{
+
+    position:relative;
+    top:-556px;
+    z-index:3;
+}
+
+
+.pic3 img{
+
+    border:black solid 2px;
+    position:relative;
+    top:-100px;
+
+}
+
+.mheadline{
+
+    font-size:50px;
+    text-decoration:underline;
+    position:relative;
+    top:-7px;
+    left:130px;
+    color:#CEDED7;
+    z-index:4;
+}
+
+.meverything{
+
+    background-color:#5DA8A2;
+    border: 5px solid #CEDED7;
+    height:300px;
+    margin:0;
+    padding:0;
+    position:relative;
+    top:-610px;
+    width:520px;
+    float:right;
+   
+}
+
+.mdescription{
+
+    font-size:25px;
+    position:relative;
+    left:100px;
+    color:#FAFDFC;
+    top:10px;
+    font-family: 'Cormorant', serif;
+}
+
+.mmore{
+
+    font-size:20px;
+    background-color:#FAFDFC;
+    position:relative;
+    left:100px;
+    top:50px;
+    padding:5px 10px 5px 10px;
+    z-index:3;
+    color:#7DB185;
+    font-family: 'Lora', serif;
+
+}
+
+.mockpic{
+    position:relative;
+    top:-200px;
+}
+
+.gojo img{
+
+    position:relative;
+    z-index:3;
+    top:70px;
+    left:170px;
+}
+
+@media screen and (max-width:600px){
+    .banner{
+        height:150px;
+        position:relative;
+        top:-30px;
+        width:600px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .menu img{
+        height:200px;
+        position:relative;
+        top:-25px;
+        max-height:100px;
+
+    }
+
+    .projects{
+        font-size:50px;
+        position:relative;
+        top:27px;
+
+    }
+
+    .erwin img{
+        position:relative;
+        top:405px;
+        left:-150px;
+        padding:0px;
+        margin:0px;
+        height:160px;
+        width:130px;
+
+    }
+
+    .pic1 img {
+        
+        height:400px;
+        width:600px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+    }
+
+    .severything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:230px;
+        width:600px;
+    }
+
+    .headline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        text-align:center;
+        font-size:50px;
+        
+    }
+
+    .sdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:50px;
+        font-size:23px;
+        
+    }
+
+    .ukai img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:497px;
+        left:-350px;
+        height:200px;
+        width:200px;
+    }
+
+    .smore{
+    
+        margin:0px;
+        position:relative;
+        top:100px;
+        left:400px;
+    }
+}
+
+
+
+
+
+@media screen and (max-width:600px){
+    .pic2 img {
+        
+        height:400px;
+        width:600px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-200px;
+        left:0px;
+    }
+
+    .weverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:400px;
+        height:230px;
+        width:600px;
+    }
+
+    .wheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        text-align:center;
+        font-size:50px;
+        
+    }
+
+    .wdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:20px;
+        font-size:23px;
+        text-align:center;
+        
+    }
+
+    .tanjiro img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:166px;
+        left:0px;
+        height:200px;
+        width:200px;
+        z-index:3
+    }
+
+    .wmore{
+    
+        margin:0px;
+        position:relative;
+        top:50px;
+        left:350px;
+        z-index:4
+    }
+}
+
+    
+
+
+@media screen and (max-width:600px){
+    .pic3 img {
+        
+        height:400px;
+        width:600px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:150px;
+        left:0px;
+    }
+
+    .meverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:146px;
+        height:230px;
+        width:600px;
+        border:none;
+    }
+
+    .mheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        text-align:center;
+        font-size:50px;
+
+        
+    }
+
+    .mdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:20px;
+        font-size:23px;
+        text-align:center;
+        
+    }
+
+    .gojo img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:5px;
+        left:150px;
+        height:200px;
+        width:230px;
+        z-index:3
+    }
+
+    .mmore{
+    
+        margin:0px;
+        position:relative;
+        top:50px;
+        left:100px;
+    }
+}
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .banner{
+        height:150px;
+        position:relative;
+        top:-30px;
+        width:768px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .menu img{
+        height:200px;
+        position:relative;
+        top:-25px;
+        max-height:100px;
+
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .projects{
+        font-size:70px;
+        position:relative;
+        top:27px;
+
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .erwin img{
+        position:relative;
+        top:334px;
+        left:-130px;
+        padding:0px;
+        margin:0px;
+        height:180px;
+        width:140px;
+
+    }
+}
+
+
+
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .pic2 img {
+        
+        height:500px;
+        width:768px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-200px;
+        left:0px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .weverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:500px;
+        height:230px;
+        width:768px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .wheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        text-align:center;
+        font-size:50px;
+        left:250px;
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .wdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:20px;
+        font-size:23px;
+        text-align:center;
+        left:250px;
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .tanjiro img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:166px;
+        left:70px;
+        height:200px;
+        width:200px;
+        z-index:3
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .wmore{
+    
+        margin:0px;
+        position:relative;
+        top:50px;
+        left:450px;
+        z-index:4
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .pic3 img {
+        
+        height:400px;
+        width:768px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:170px;
+        left:0px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .meverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:166px;
+        height:230px;
+        width:768px;
+       
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .mheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        text-align:center;
+        font-size:50px;
+        left:300px;
+
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .mdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:20px;
+        font-size:23px;
+        text-align:center;
+        left:250px;
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .gojo img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:20px;
+        left:270px;
+        height:200px;
+        width:230px;
+        z-index:3
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .mmore{
+    
+        margin:0px;
+        position:relative;
+        top:50px;
+        left:150px;
+    }
+}
+
+
+
+
+
+
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .pic1 img {
+        
+        height:450px;
+        width:768px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .severything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-10px;
+        height:230px;
+        width:768px;
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .headline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        font-size:50px;
+        left:-300px;
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .sdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:50px;
+        font-size:23px;
+        left:-50px;
+        
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .ukai img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:467px;
+        left:-440px;
+        height:200px;
+        width:200px;
+
+    }
+}
+
+@media screen and (min-width:600px) and (max-width:768px){
+    .smore{
+    
+        margin:0px;
+        position:relative;
+        top:100px;
+        left:300px;
+    }
+}
+
+
+@media screen and (min-width:600px) and (max-width:768px){
+    body {
+        background-color:black;
+        width:100%;
+        overflow-x:hidden;
+    }
+}
+
+
+
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+    body {
+        background-color:pink;
+        width:100%;
+        overflow-x:hidden;
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .banner{
+        height:150px;
+        position:relative;
+        top:-30px;
+        width:992px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .menu img{
+        height:200px;
+        position:relative;
+        top:-25px;
+        max-height:120px;
+
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .projects{
+        font-size:70px;
+        position:relative;
+        top:27px;
+
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .erwin img{
+        position:relative;
+        top:365px;
+        left:-100px;
+        padding:0px;
+        margin:0px;
+        height:200px;
+        width:160px;
+
+    }
+}
+
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .pic1 img {
+        
+        height:400px;
+        width:562px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .severything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-408px;
+        height:230px;
+        width:992px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .headline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        font-size:40px;
+        left:-180px;
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .sdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:50px;
+        font-size:20px;
+        left:15px;
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .ukai img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:187px;
+        left:-50px;
+        height:230px;
+        width:230px;
+
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .smore{
+    
+        margin:0px;
+        position:relative;
+        top:100px;
+        left:300px;
+    }
+}
+
+
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .pic2 img {
+        
+        height:400px;
+        width:562px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-200px;
+        left:290px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .weverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-200px;
+        height:230px;
+        width:992px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .wheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-390px;
+        height:200px;
+        font-size:40px;
+        left:130px;
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .wdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-370px;
+        font-size:20px;
+        left:130px;
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .tanjiro img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-20px;
+        left:0px;
+        height:200px;
+        width:200px;
+        z-index:3
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .wmore{
+    
+        margin:0px;
+        position:relative;
+        top:-330px;
+        left:250px;
+        z-index:4
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .pic3 img {
+        
+        height:400px;
+        width:562px;
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:170px;
+        left:0px;
+        z-index:2;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .meverything{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:-230px;
+        height:230px;
+        width:768px;
+        z-index:1;
+       
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .mheadline{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:0px;
+        height:200px;
+        font-size:40px;
+        left:500px;
+
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .mdescription{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:10px;
+        font-size:20px;
+        left:450px;
+        
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .gojo img{
+    
+        padding:0px;
+        margin:0px;
+        position:relative;
+        top:260px;
+        left:150px;
+        height:150px;
+        width:190px;
+        z-index:3
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:992px){
+    .mmore{
+    
+        margin:0px;
+        position:relative;
+        top:50px;
+        left:450px;
+    }
+}
+
+
+
+
+
+
+@media screen and (min-width:992px) and (max-width:1200px){
+    body {
+        background-color:green;
+        width:100%;
+        overflow-x:hidden;
+
+    }
+
+    .erwin img{
+
+        display:flex;
+        flex-wrap:wrap;
+        height:40vh;
+        position:relative;
+        top:197px;
+        width:34vh;
+        left:-150px;
+    }
+
+    .menu img{
+
+        display:flex;
+        height:15vh;
+        position:relative;
+        top:-10px;
+    }
+
+    .banner{
+
+        display:flex;
+        position:relative;
+        top:-20px;
+        width:100%;
+
+    }
+
+    .projects{
+
+        position:relative;
+        text-align:center;
+        left:29%;
+
+    }
+
+    .pic1 img{
+
+        display:flex;
+        flex-direction:row;
+        height:55vh;
+        width:600px;
+        position:relative;
+        top:100px;
+
+    }
+
+    .severything{
+        position:relative;
+        top:-315px;
+        width:100%;
+        
+    }
+
+    .headline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:-100px;
+
+    }
+
+    .sdescription{
+
+        display:flex;
+        position:relative;
+        left:100px;
+    }
+
+    .smore{
+
+        display:flex;
+        position:relative;
+        left:350px;
+    }
+
+    .ukai img{
+
+        display:flex;
+        position:relative;
+        top:154px;
+        height:20%;
+        width:20%;
+        float:right;
+        left:-200px;
+  
+    }
+
+    .pic2 img{
+        height:55vh;
+        width:80vh;
+        left:0px;
+        padding:0px;
+        margin:0px;
+        top:-450px;
+        
+    }
+
+    .weverything{
+        position:relative;
+        top:-240px;
+        width:100%;
+        
+    }
+
+    .wheadline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:90px;
+        top:0px;
+
+    }
+
+    .wdescription{
+
+        position:relative;
+        left:90px;
+        top:-100px;
+    }
+
+    .wmore{
+
+        top:0px;
+        
+    }
+
+    .tanjiro img{
+
+        display:flex;
+        position:relative;
+        top:140px;
+        height:25%;
+        width:25%;
+  
+    }
+
+    .pic3 img{
+        height:55vh;
+        width:80vh;
+        left:0px;
+        padding:0px;
+        margin:0px;
+        top:0px;
+        position:relative;
+        z-index:2
+        
+    }
+
+    .meverything{
+        position:relative;
+        top:-400px;
+        width:100%;
+        z-index:1
+        
+    }
+
+    .mheadline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:720px;
+        top:0px;
+
+    }
+
+    .mdescription{
+
+        position:relative;
+        left:690px;
+        top:0px;
+    }
+
+    .mmore{
+
+        top:70px;
+        left:670px;
+        
+    }
+
+    .gojo img{
+
+        display:flex;
+        position:relative;
+        top:150px;
+        height:30%;
+        width:30%;
+        left:220px;
+    }
+}
+
+@media screen and (min-width:1200px) and (max-width:1300px){
+    body {
+        background-color:blue;
+        width:100%;
+        overflow-x:hidden;
+
+    }
+
+    .erwin img{
+
+        display:flex;
+        flex-wrap:wrap;
+        height:40vh;
+        position:relative;
+        top:25px;
+        width:34vh;
+        left:-50px;
+        top:122px;
+    }
+
+    .menu img{
+
+        display:flex;
+        height:15vh;
+        position:relative;
+        top:-10px;
+    }
+
+    .banner{
+
+        display:flex;
+        position:relative;
+        top:-20px;
+        width:100%;
+
+    }
+
+    .projects{
+
+        position:relative;
+        text-align:center;
+        left:29%;
+
+    }
+
+    .pic1 img{
+
+        display:flex;
+        flex-direction:row;
+        height:65vh;
+        width:100vh;
+        position:relative;
+        top:175px;
+
+    }
+
+    .severything{
+        position:relative;
+        top:-315px;
+        width:100%;
+        
+    }
+
+    .headline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:-180px;
+
+    }
+
+    .sdescription{
+
+        display:flex;
+        position:relative;
+        left:70px;
+    }
+
+    .smore{
+
+        display:flex;
+        position:relative;
+        left:350px;
+    }
+
+    .ukai img{
+
+        display:flex;
+        position:relative;
+        top:154px;
+        height:23%;
+        width:23%;
+        float:right;
+        left:-200px;
+  
+    }
+
+    .pic2 img{
+        height:65vh;
+        width:100vh;
+        left:0px;
+        padding:0px;
+        margin:0px;
+        top:-450px;
+        
+    }
+
+    .weverything{
+        position:relative;
+        top:-175px;
+        width:100%;
+        
+    }
+
+    .wheadline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:160px;
+        top:0px;
+
+    }
+
+    .wdescription{
+
+        position:relative;
+        left:160px;
+        top:-170px;
+    }
+
+    .wmore{
+
+        position:relative;
+        top:-100px;
+        left:300px;
+        z-index:4;
+        
+    }
+
+    .tanjiro img{
+
+        display:flex;
+        position:relative;
+        top:220px;
+        height:27%;
+        width:27%;
+        z-index:3;
+  
+    }
+
+    .pic3 img{
+        height:65vh;
+        width:100vh;
+        left:0px;
+        padding:0px;
+        margin:0px;
+        top:0px;
+        position:relative;
+        z-index:2
+        
+    }
+
+    .meverything{
+        position:relative;
+        top:-469px;
+        width:100%;
+        
+        
+    }
+
+    .mheadline{
+
+        display:flex;
+        font-size:45px;
+        position:relative;
+        left:920px;
+        top:0px;
+
+    }
+
+    .mdescription{
+
+        position:relative;
+        left:890px;
+        top:0px;
+    }
+
+    .mmore{
+
+        top:70px;
+        left:780px;
+        z-index:4;
+        
+    }
+
+    .gojo img{
+
+        display:flex;
+        position:relative;
+        top:180px;
+        height:30%;
+        width:30%;
+        z-index:3;
+    }
+
+}
